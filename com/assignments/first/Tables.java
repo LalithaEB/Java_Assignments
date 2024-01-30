@@ -1,8 +1,8 @@
-package com.assignments.first;
+package first;
 
 import java.util.Scanner;
 
-public class Program3 {
+public class Tables {
     public static void main(String[] args) {
         int number;
         Scanner scanner = new Scanner(System.in);
