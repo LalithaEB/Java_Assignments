@@ -1,5 +1,7 @@
 package first;
 
+//Java program to print the sum of two numbers, subtraction, multiplication, division
+
 public class ArithmeticOperations {
     public static void main(String[] args) {
         int number1 = 20, number2 = 10;

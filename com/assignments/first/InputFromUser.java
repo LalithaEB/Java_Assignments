@@ -1,5 +1,7 @@
 package first;
 
+//Java program to print the sum of two numbers, subtraction, multiplication, division take input from user
+
 import java.util.Scanner;
 
 public class InputFromUser {

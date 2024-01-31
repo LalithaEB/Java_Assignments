@@ -1,5 +1,7 @@
 package first;
 
+//a Java program to count letters, spaces, numbers and other characters in an input string
+
 import java.util.Scanner;
 
 public class CountCharacters {

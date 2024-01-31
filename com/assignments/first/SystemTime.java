@@ -1,5 +1,7 @@
 package first;
 
+//Java program to display system time
+
 import java.util.Date;
 
 public class SystemTime {

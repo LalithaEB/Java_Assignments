@@ -1,5 +1,7 @@
 package first;
 
+//Java program to swap two variables
+
 import java.util.Scanner;
 
 public class SwapVariables {

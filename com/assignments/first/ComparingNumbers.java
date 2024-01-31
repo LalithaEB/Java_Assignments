@@ -1,5 +1,7 @@
 package first;
 
+//Java program to compare two numbers. (take user input)
+
 import java.util.Scanner;
 
 public class ComparingNumbers {

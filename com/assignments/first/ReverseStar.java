@@ -1,5 +1,7 @@
 package first;
 
+//Program on reverse star pattern
+
 public class ReverseStar {
     public static void main(String[] args) {
         System.out.println("Reverse star pattern-");

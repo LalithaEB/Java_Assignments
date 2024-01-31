@@ -1,5 +1,7 @@
 package first;
 
+//Java program to print the ASCII value of a given character
+
 import java.util.Scanner;
 
 public class ASCIIValue {

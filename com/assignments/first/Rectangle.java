@@ -1,5 +1,7 @@
 package first;
 
+//Java program to print the area and perimeter of a rectangle. (use user input)
+
 import java.util.Scanner;
 
 public class Rectangle {

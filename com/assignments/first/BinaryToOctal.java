@@ -1,5 +1,7 @@
 package first;
 
+//Java program to convert a binary number to an octal number
+
 import java.util.Scanner;
 
 public class BinaryToOctal {

@@ -1,5 +1,7 @@
 package first;
 
+//Java program to convert an octal number to a hexadecimal number
+
 import java.util.Scanner;
 
 public class OctalToHexadecimal {

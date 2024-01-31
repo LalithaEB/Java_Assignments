@@ -1,5 +1,7 @@
 package first;
 
+//Java program to divide two binary numbers
+
 import java.util.Scanner;
 
 public class BinaryDivide {

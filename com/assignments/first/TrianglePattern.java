@@ -1,5 +1,7 @@
 package first;
 
+//Program on triangle star Pattern
+
 public class TrianglePattern {
     public static void main(String[] args) {
         System.out.println("Triangle pattern-");
